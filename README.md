@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karol Kurtyka
+- 👀 I’m interested in back-end dev using NestJS
+- 🌱 I’m currently learning Testing in NestJS
+- 📫 How to reach? On discord Hrt#5567
